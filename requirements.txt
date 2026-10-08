@@ -1,0 +1,15 @@
+# Python 3.13.5
+# Instalar com: pip install -r requirements.txt
+
+# Necessarias para o script.py (gera submissao_case.csv)
+pandas==2.2.3
+numpy==2.1.3
+pyarrow==19.0.0
+scikit-learn==1.6.1
+xgboost==3.4.1
+matplotlib==3.10.0
+optuna==5.0.0
+
+# Necessarias so para os notebooks
+networkx==3.4.2
+jupyter==1.1.1
