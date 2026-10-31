@@ -1,4 +1,4 @@
-# Case Técnico de Ciência de Dados: risco de crédito
+# Datarisk (WeCogno) Case Técnico de Ciência de Dados: risco de crédito
 
 Solução para o case de concessão de crédito a pessoa física. Entrega um modelo que estima a probabilidade de inadimplência de cada pedido da `base_submissao.parquet` e uma política de crédito que usa essa probabilidade para decidir.
 
